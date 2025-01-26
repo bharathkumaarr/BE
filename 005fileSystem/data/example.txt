@@ -1,0 +1,2 @@
+hello after creating and writing file 
+this is the new line written
